@@ -4,23 +4,6 @@
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm passionate about Data, Knowledge Management, Cybersecurity, and Cloud Technologies.</p>
 
-<h1 align="center"><u>🚧 Pardon Our Pixel Dust!, Great artistry in the making❕️ 🏗🛠🎨</u></h1>
-
-<p align="center">Welcome, wanderer! You've stumbled upon our digital construction zone where creativity and code collide! 🛠️</p>
-
-<p align="center">We're currently in the process of sculpting something truly spectacular, but like any good masterpiece, it takes time! 🖌️</p>
-
-<p align="center">So grab a hard hat and stay tuned for the grand reveal! In the meantime, here's a little teaser of what's to come:</p>
-
-<p align="center">
-  <strong>🌟 Crafting Cosmic Designs:</strong> We're painting the digital cosmos with creative imagination and innovation. <br>
-  <strong>🚀 Launching Interstellar Features:</strong> Get ready for a rocket ride through a galaxy of functionality and fun! <br>
-  <strong>📚 Documenting Constellations:</strong> Our stellar documentation will guide you through the celestial wonders of our creation. <br>
-  <strong>🌌 Engaging Cosmic Community:</strong> Join us on this cosmic journey as we unite stars and souls under one digital sky.
-</p>
-
-<p align="center">Thanks for your cosmic patience, and remember: the universe wasn't built in a day! 🌠</p>
-
 
 <!-- Skills -->
 <h2 align="center">Skills & Interests 🚀</h2>
@@ -74,6 +57,22 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&layout=compact&theme=tokyonight)
 
+<h1 align="center"><u>🚧 Pardon Our Pixel Dust!, Great artistry in the making❕️ 🏗🛠🎨</u></h1>
+
+<p align="center">Welcome, wanderer! You've stumbled upon our digital construction zone where creativity and code collide! 🛠️</p>
+
+<p align="center">We're currently in the process of sculpting something truly spectacular, but like any good masterpiece, it takes time! 🖌️</p>
+
+<p align="center">So grab a hard hat and stay tuned for the grand reveal! In the meantime, here's a little teaser of what's to come:</p>
+
+<p align="center">
+  <strong>🌟 Crafting Cosmic Designs:</strong> We're painting the digital cosmos with creative imagination and innovation. <br>
+  <strong>🚀 Launching Interstellar Features:</strong> Get ready for a rocket ride through a galaxy of functionality and fun! <br>
+  <strong>📚 Documenting Constellations:</strong> Our stellar documentation will guide you through the celestial wonders of our creation. <br>
+  <strong>🌌 Engaging Cosmic Community:</strong> Join us on this cosmic journey as we unite stars and souls under one digital sky.
+</p>
+
+<p align="center">Thanks for your cosmic patience, and remember: the universe wasn't built in a day! 🌠</p>
 
 
 <!---
