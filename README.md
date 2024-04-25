@@ -44,7 +44,7 @@
 
 ## 📝 Welcome to the Interactive Guestbook! 🚀
 
-Feel free To leave your mark 😊, simply [open a new issue](https://github.com/your-username/guestbook/issues/new) and write your message there! 🎉
+Feel free To leave your mark 😊, simply [open a new issue](https://github.com/BrianKN019/guestbook/issues/new) and write your message there! 🎉
 
 💬 **Thank you for visiting and leaving your message!** 💬
 
@@ -57,7 +57,7 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&layout=compact&theme=tokyonight)
 
-<h1 align="center"><u>🚧 Pardon Our Pixel Dust!, Great artistry in the making❕️ 🏗🛠🎨</u></h1>
+<h1 align="center"><u>🚧 Pardon Our Pixel Dust!, Great artistry in the making❕️ 🏗🛠 </u></h1>
 
 <p align="center">Welcome, You've stumbled upon our digital construction zone where creativity and code collide! 🛠️</p>
 
