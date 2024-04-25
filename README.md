@@ -41,6 +41,13 @@
 <!-- Footer -->
 <p align="center">Feel free to explore my projects and connect with me! 😄</p>
 
+<!-- GitHub Readme Stats -->
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianKN019&show_icons=true&theme=radical)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&layout=compact&theme=radical)
+
+
 
 <!---
 BrianKN019/BrianKN019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
