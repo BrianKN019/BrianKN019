@@ -4,9 +4,13 @@
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm passionate about Data, Knowledge Management, Cybersecurity, and Cloud Technologies.</p>
 
-## 📝 Guestbook
 
-Welcome to my guestbook! Feel free to leave your mark by adding a comment below. 😊
+## 📝 Welcome to the Interactive Guestbook! 🚀
+
+Feel free To leave your mark 😊, simply [open a new issue](https://github.com/your-username/guestbook/issues/new) and write your message there! 🎉
+
+💬 **Thank you for visiting and leaving your message!** 💬
+
 
 ---
 
