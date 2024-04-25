@@ -26,7 +26,7 @@
 <h2 align="center">Get in Touch! 📫</h2>
 <p align="center">
   <a href="https://github.com/BrianKN019"><img src="https://img.shields.io/badge/GitHub-BrianKN019-blue?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/nbriankimemia019b"><img src="https://img.shields.io/badge/LinkedIn-NBrian%20Kimemia-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nbriankimemia019b"><img src="https://img.shields.io/badge/LinkedIn-N%20Brian%20Kimemia-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 <!-- Projects -->
@@ -59,7 +59,7 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 
 <h1 align="center"><u>🚧 Pardon Our Pixel Dust!, Great artistry in the making❕️ 🏗🛠🎨</u></h1>
 
-<p align="center">Welcome, wanderer! You've stumbled upon our digital construction zone where creativity and code collide! 🛠️</p>
+<p align="center">Welcome, You've stumbled upon our digital construction zone where creativity and code collide! 🛠️</p>
 
 <p align="center">We're currently in the process of sculpting something truly spectacular, but like any good masterpiece, it takes time! 🖌️</p>
 
