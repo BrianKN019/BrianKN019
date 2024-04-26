@@ -51,9 +51,6 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 
 ---
 
-<!-- GitHub Readme Stats -->
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianKN019&show_icons=true&theme=radical)
-
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&layout=compact&theme=tokyonight)
 
