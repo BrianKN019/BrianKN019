@@ -36,7 +36,7 @@
   <a href="https://github.com/BrianKN019/AWS-PROJECTS-"><img src="https://img.shields.io/badge/Project%201-AWS%20Project-blueviolet" alt="Project 1"></a>
   <a href="https://github.com/BrianKN019/Cybersecurity-Projects-"><img src="https://img.shields.io/badge/Project%202-Cyber%20Security-cyan" alt="Project 2"></a>
   <a href="https://github.com/BrianKN019/project3"><img src="https://img.shields.io/badge/Project%203-Knowledge%20Management-red" alt="Project 3"></a>
-  <a href="https://github.com/BrianKN019/project4"><img src="https://img.shields.io/badge/Project%204-Data%20Analysis-magenta" alt="Project 4"></a>
+  <a href="https://github.com/BrianKN019/project4"><img src="https://img.shields.io/badge/Project%204-Data%20Analysis-teal" alt="Project 4"></a>
 </p>
 
 
