@@ -78,15 +78,14 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 <h1 align="center">📊 My GitHub Activity Timeline 🕒</h1>
 
 <!-- Introduction -->
-<p align="center">Explore my GitHub activity timeline below, showcasing my contributions over time.</p>
+<p align="center">Explore my recent GitHub activity below, showcasing my contributions over time.</p>
 
 <!-- GitHub Activity Timeline -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=BrianKN019&theme=react-dark" alt="Brian's GitHub Activity Timeline">
+  <img src="https://github-readme-stats.vercel.app/api/?username=BrianKN019&show_icons=true&theme=react" alt="Brian's GitHub Activity Timeline">
 </p>
 
 <!-- Footer -->
 <p align="center">Stay tuned for more updates and contributions! 😄</p>
-
 
 --->
