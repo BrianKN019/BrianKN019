@@ -74,6 +74,19 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 
 <p align="center">Thanks for your cosmic patience, and remember: the universe wasn't built in a day! 🌠</p>
 
+<!-- Header -->
+<h1 align="center">🌟 My GitHub Repositories 🌟</h1>
+
+<!-- Introduction -->
+<p align="center">Welcome to my GitHub repository showcase! Below you'll find a visual representation of my repositories, showcasing my projects and contributions.</p>
+
+<!-- GitHub Repositories -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianKN019&show_icons=true&theme=radical" alt="Brian's GitHub Repositories">
+</p>
+
+<!-- Footer -->
+<p align="center">Feel free to explore my repositories and dive into the code! 😄</p>
 
 <!---
 BrianKN019/BrianKN019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
