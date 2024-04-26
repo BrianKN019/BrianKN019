@@ -33,7 +33,8 @@
 <h2 align="center">Featured Projects 🌟</h2>
 
 <p align="center">
-  <a href="https://github.com/BrianKN019/project1"><img src="https://img.shields.io/badge/Project%201-Data%20Analysis-blueviolet" alt="Project 1"></a>
+  <a href="https://github.com/BrianKN019/AWS-PROJECTS-"><img src="https://img.shields.io/badge/Project%201-Data%20Analysis-blueviolet" alt="Project 1"></a>
+</p>
   <a href="https://github.com/BrianKN019/project2"><img src="https://img.shields.io/badge/Project%202-Knowledge%20Management-yellow" alt="Project 2"></a>
   <a href="https://github.com/BrianKN019/project3"><img src="https://img.shields.io/badge/Project%203-Cybersecurity-red" alt="Project 3"></a>
   <a href="https://github.com/BrianKN019/project4"><img src="https://img.shields.io/badge/Project%204-Cloud%20Technologies-green" alt="Project 4"></a>
