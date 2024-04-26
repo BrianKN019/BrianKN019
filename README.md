@@ -87,3 +87,14 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 <p align="center">Stay tuned for more updates and contributions! 😄</p>
 
 --->
+<!-- AWS Certified Cloud Practitioner Badge -->
+<p align="center">
+  <a href="https://www.credly.com/badges/becf35b1-8d56-4957-ba65-f686d7b05aff/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-blue" alt="AWS Certified Cloud Practitioner Badge">
+    <img src="https://www.awsstatic.com/Images/Made-in-Association-Logos-Partner/New/3_AWS_Cloud_Practitioner-Card_Card_145x145.png" alt="AWS Certified Cloud Practitioner Logo" width="75">
+  </a>
+</p>
+
+<!-- Description -->
+<p align="center">Click the badge to verify my AWS Certified Cloud Practitioner credential on Credly!</p>
+
