@@ -74,18 +74,19 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 
 <p align="center">Thanks for your cosmic patience, and remember: the universe wasn't built in a day! 🌠</p>
 
-<<!-- Header -->
-<h1 align="center">🌟 My GitHub Repositories Overview 🛠️</h1>
+<!-- Header -->
+<h1 align="center">📊 My GitHub Activity Timeline 🕒</h1>
 
 <!-- Introduction -->
-<p align="center">Welcome to my GitHub repository overview! Below, you'll find a summary of my repositories, including the total count and status.</p>
+<p align="center">Explore my GitHub activity timeline below, showcasing my contributions over time.</p>
 
-<!-- GitHub Repositories Overview -->
+<!-- GitHub Activity Timeline -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianKN019&hide=stars,prs,issues,contribs&show_icons=true&theme=merko" alt="Brian's GitHub Repositories Overview">
+  <img src="https://activity-graph.herokuapp.com/graph?username=BrianKN019&theme=react-dark" alt="Brian's GitHub Activity Timeline">
 </p>
 
 <!-- Footer -->
-<p align="center">Feel free to explore my repositories for more details! 😄</p>
+<p align="center">Stay tuned for more updates and contributions! 😄</p>
+
 
 --->
