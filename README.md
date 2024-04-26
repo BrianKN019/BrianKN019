@@ -29,18 +29,16 @@
   <a href="https://www.linkedin.com/in/nbriankimemia019b"><img src="https://img.shields.io/badge/LinkedIn-N%20Brian%20Kimemia-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-<!-- Projects -->
+<p <!-- Projects -->
 <h2 align="center">Featured Projects 🌟</h2>
 
 <p align="center">
-  <a href="https://github.com/BrianKN019/AWS-PROJECTS-"><img src="https://img.shields.io/badge/Project%201-Data%20Analysis-blueviolet" alt="Project 1"></a>
-</p>
-  <<p align="center">
+  <a href="https://github.com/BrianKN019/AWS-PROJECTS-"><img src="https://img.shields.io/badge/Project%201-AWS%20Project-blueviolet" alt="Project 1"></a>
   <a href="https://github.com/BrianKN019/Cybersecurity-Projects-"><img src="https://img.shields.io/badge/Project%202-Cyber%20Security-yellow" alt="Project 2"></a>
+  <a href="https://github.com/BrianKN019/project3"><img src="https://img.shields.io/badge/Project%203-Knowledge%20Management-red" alt="Project 3"></a>
+  <a href="https://github.com/BrianKN019/project4"><img src="https://img.shields.io/badge/Project%204-Data%20Analysis-green" alt="Project 4"></a>
 </p>
-  <a href="https://github.com/BrianKN019/project3"><img src="https://img.shields.io/badge/Project%203-Cybersecurity-red" alt="Project 3"></a>
-  <a href="https://github.com/BrianKN019/project4"><img src="https://img.shields.io/badge/Project%204-Cloud%20Technologies-green" alt="Project 4"></a>
-</p>
+
 
 <!-- Footer -->
 <p align="center">Feel free to explore my projects and connect with me! 😄</p>
