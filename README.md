@@ -45,11 +45,10 @@
 
 ## 📝 Welcome to the Interactive Guestbook! 🚀
 
-Feel free To leave your mark 😊, simply [![Guestbook](https://img.shields.io/badge/Guestbook-Leave%20a%20Message-gold?style=for-the-badge)](https://github.com/BrianKN019/guestbook/issues/new) and write your message there! 🎉
-
+Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields.io/badge/📝%20Guestbook-Leave%20a%20Message-gold?style=for-the-badge&logo=github)](https://github.com/BrianKN019/guestbook/issues/new)
 💬 **Thank you for visiting and leaving your message!** 💬
 
-[![📝 Guestbook](https://img.shields.io/badge/📝%20Guestbook-Leave%20a%20Message-orange?style=for-the-badge&logo=github)](https://github.com/BrianKN019/guestbook/issues/new)
+
 
 ---
 
