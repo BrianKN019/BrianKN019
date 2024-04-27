@@ -45,7 +45,7 @@
 
 ## 📝 Welcome to the Interactive Guestbook! 🚀
 
-Feel free To leave your mark 😊, simply [Guestbook](https://img.shields.io/badge/Guestbook-Leave%20a%20Message-gold?style=for-the-badge)](https://github.com/BrianKN019/guestbook/issues/new) and write your message there! 🎉
+Feel free To leave your mark 😊, simply [![Guestbook](https://img.shields.io/badge/Guestbook-Leave%20a%20Message-gold?style=for-the-badge)](https://github.com/BrianKN019/guestbook/issues/new) and write your message there! 🎉
 
 💬 **Thank you for visiting and leaving your message!** 💬
 
