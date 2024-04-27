@@ -89,24 +89,59 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 --->
 
 <!-- Certification Banner -->
-<h2 align="center">Certification 🎓</h2>
+<h3 align="center">Certification 🎓</h3>
 
+<!-- Header -->
+<h2 align="center">Certifications 🎓</h2>
+
+<!-- AWS Certified Cloud Practitioner Badge -->
 <p align="center">
-  <pre>
-   _______     _______.     _______. __    __   __  
-  /  _____|   /       |    /       ||  |  |  | |  | 
- |  |  __    |   (----`   |   (----`|  |  |  | |  | 
- |  | |_ |    \   \        \   \    |  |  |  | |  | 
- |  |__| |.----)   |   .----)   |   |  `--'  | |  | 
-  \______| |_______/    |_______/     \______/  |__|
-  </pre>
   <a href="https://www.credly.com/badges/becf35b1-8d56-4957-ba65-f686d7b05aff/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-blue" alt="AWS Certified Cloud Practitioner Badge">
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-blue?style=for-the-badge" alt="AWS Certified Cloud Practitioner Badge">
     <img src="https://www.awsstatic.com/Images/Made-in-Association-Logos-Partner/New/3_AWS_Cloud_Practitioner-Card_Card_145x145.png" alt="AWS Certified Cloud Practitioner Logo" width="75">
   </a>
 </p>
 
-<!-- Description -->
+<!-- Description for AWS Certified Cloud Practitioner -->
 <p align="center">Click the badge to verify my AWS Certified Cloud Practitioner credential on Credly!</p>
 
+<!-- Introduction to Data Science Badge -->
+<p align="center">
+  <a href="https://www.credly.com/badges/5ddf7f14-c199-40ae-9d05-adb4c432dfe9/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Introduction%20to%20Data%20Science-blue?style=for-the-badge" alt="Introduction to Data Science Badge">
+  </a>
+</p>
+
+<!-- Description for Introduction to Data Science -->
+<p align="center">Click the badge to verify my Introduction to Data Science certification on Credly!</p>
+
+<!-- Cybersecurity Essentials Badge -->
+<p align="center">
+  <a href="https://www.credly.com/badges/bc87036f-6d7a-4786-8676-594c4a521e65/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Cybersecurity%20Essentials-yellow?style=for-the-badge" alt="Cybersecurity Essentials Badge">
+  </a>
+</p>
+
+<!-- Description for Cybersecurity Essentials -->
+<p align="center">Click the badge to verify my Cybersecurity Essentials certification on Credly!</p>
+
+<!-- Introduction to Cybersecurity Badge -->
+<p align="center">
+  <a href="https://www.credly.com/badges/0aa89658-ed81-41ca-8635-550d7fb08cd1/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-red?style=for-the-badge" alt="Introduction to Cybersecurity Badge">
+  </a>
+</p>
+
+<!-- Description for Introduction to Cybersecurity -->
+<p align="center">Click the badge to verify my Introduction to Cybersecurity certification on Credly!</p>
+
+<!-- ISC2 Candidate Badge -->
+<p align="center">
+  <a href="https://www.credly.com/badges/29b04d68-29b3-4dfc-8566-ab919754fe6e/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/ISC2%20Candidate-green?style=for-the-badge" alt="ISC2 Candidate Badge">
+  </a>
+</p>
+
+<!-- Description for ISC2 Candidate -->
+<p align="center">Click the badge to verify my ISC2 Candidate certification on Credly!</p>
 
