@@ -5,14 +5,23 @@
 <p align="center">Welcome to my GitHub profile! I'm passionate about Data, Knowledge Management, Cybersecurity, and Cloud Technologies.</p>
 
 
-<!-- Skills -->
+<!-- Skills & Interests -->
 <h2 align="center">Skills & Interests 🚀</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Analysis-orange" alt="Data Analysis">
-  <img src="https://img.shields.io/badge/Knowledge-Management-blue" alt="Knowledge Management">
-  <img src="https://img.shields.io/badge/Cybersecurity-red" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Cloud-Technologies-green" alt="Cloud Technologies">
+  <a href="https://www.linkedin.com/in/nbriankimemia019b">
+    <img src="https://img.shields.io/badge/Data-Analysis-teal" alt="Data Analysis">
+  </a>
+  <a href="https://www.linkedin.com/in/nbriankimemia019b">
+    <img src="https://img.shields.io/badge/Knowledge-Management-blue" alt="Knowledge Management">
+  </a>
+  <a href="https://www.linkedin.com/in/nbriankimemia019b">
+    <img src="https://img.shields.io/badge/Cybersecurity-red" alt="Cybersecurity">
+  </a>
+  <a href="https://www.linkedin.com/in/nbriankimemia019b">
+    <img src="https://img.shields.io/badge/Cloud-Technologies-khaki" alt="Cloud Technologies">
+  </a>
 </p>
+
 
 <!-- Learning -->
 <h2 align="center">Currently Learning 🌱</h2>
@@ -25,7 +34,7 @@
 <!-- Contact -->
 <h2 align="center">Get in Touch! 📫</h2>
 <p align="center">
-  <a href="https://github.com/BrianKN019"><img src="https://img.shields.io/badge/GitHub-BrianKN019-blue?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/BrianKN019"><img src="https://img.shields.io/badge/GitHub-BrianKN019-khaki?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/nbriankimemia019b"><img src="https://img.shields.io/badge/LinkedIn-N%20Brian%20Kimemia-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
