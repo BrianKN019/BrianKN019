@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Brian Kimemia! 👋</h1>
+<h1 align="center">Hi there, I'm Brian Kimemia N! 👋</h1>
 
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm passionate about Data, Knowledge Management, Cybersecurity, and Cloud Technologies.</p>
@@ -90,7 +90,7 @@ Feel free To leave your mark 😊, simply [open a new issue](https://github.com/
 
 
 <!-- Header -->
-<h2 align="center">Certifications 🎓</h2>
+<h1 align="center">Certifications & Digital Badges🎓</h1>
 
 <!-- AWS Certified Cloud Practitioner Badge -->
 <p align="center">
