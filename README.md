@@ -49,6 +49,7 @@ Feel free To leave your mark 😊, simply [![Guestbook](https://img.shields.io/b
 
 💬 **Thank you for visiting and leaving your message!** 💬
 
+[![📝 Guestbook](https://img.shields.io/badge/📝%20Guestbook-Leave%20a%20Message-orange?style=for-the-badge&logo=github)](https://github.com/BrianKN019/guestbook/issues/new)
 
 ---
 
