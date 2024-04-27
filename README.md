@@ -45,7 +45,7 @@
 
 ## 📝 Welcome to the Interactive Guestbook! 🚀
 
-Feel free To leave your mark 😊, simply [open a new issue](https://github.com/BrianKN019/guestbook/issues/new) and write your message there! 🎉
+Feel free To leave your mark 😊, simply [Open a new issue](https://github.com/BrianKN019/guestbook/issues/new)and write your message there! 🎉
 
 💬 **Thank you for visiting and leaving your message!** 💬
 
