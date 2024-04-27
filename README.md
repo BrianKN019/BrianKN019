@@ -78,10 +78,10 @@ Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields
   <strong>🌟 Crafting Cosmic Designs:</strong> We're painting the digital cosmos with creative imagination and innovation. <br>
   <strong>🚀 Launching Interstellar Features:</strong> Get ready for a rocket ride through a galaxy of functionality and fun! <br>
   <strong>📚 Documenting Constellations:</strong> Our stellar documentation will guide you through the celestial wonders of our creation. <br>
-  <strong>🌌 Engaging Cosmic Community:</strong> Join us on this cosmic journey as we unite stars and souls under one digital sky.
+  <strong>🌌 Engaging Cosmic Community:</strong> Join us on this cosmic journey as we unite stars under one digital sky.
 </p>
 
-<p align="center">Thanks for your cosmic patience, and remember: the universe wasn't built in a day! 🌠</p>
+<p align="center">Thanks for your cosmic patience, and remember: the ---- wasn't built in a day! 🌠</p>
 
 <!-- Header -->
 <h1 align="center">📊 My GitHub Activity Timeline 🕒</h1>
