@@ -53,7 +53,7 @@ Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields
 ---
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&layout=compact&theme=tokyonight)
+![Top Languages](●python ●Markdown ●bash ●html ●YAML&layout=compact&theme=tokyonight)
 
 <h1 align="center"><u>🚧 Pardon Our Pixel Dust!, Great artistry in the making❕️ 🏗🛠 </u></h1>
 
