@@ -150,5 +150,5 @@ Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields
 </p>
 
 <!-- Description for ISC2 Candidate -->
-<p align="center">Click the badge to verify my ISC2 Candidate certification on Credly!</p>
+<p align="center">Click the badge to verify my ISC2 Candidate Digital Badge on Credly!</p>
 
