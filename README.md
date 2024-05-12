@@ -4,6 +4,8 @@
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm passionate about Data, Knowledge Management, Cybersecurity, and Cloud Technologies.</p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrianKN019&theme=onedark" alt="BrianKN019" /></a> </p>
+
 
 <!-- Skills & Interests -->
 <h2 align="center">Skills & Interests 🚀</h2>
