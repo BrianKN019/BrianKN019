@@ -171,7 +171,7 @@ Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BrianKN019/BrianKN019/output/snake.svg" alt="Snake animation" />
 
 ###
 
