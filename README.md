@@ -1,5 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Brian Kimemia N! 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianKN019&label=Profile%20views&color=0e75b6&style=flat" alt="BrianKN019" /> </p>
+
 
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm passionate about Data, Knowledge Management, Cybersecurity, and Cloud Technologies.</p>
