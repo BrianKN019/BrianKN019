@@ -67,7 +67,7 @@ Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields
 
 ---
 
-<!-- Top Languages Card -->
+<!-- Top Languages  Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&langs_count=6&layout=compact&theme=onedark&hide_border=true)
 
 
