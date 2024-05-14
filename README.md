@@ -40,7 +40,10 @@
 <p align="center">
   <a href="https://github.com/BrianKN019"><img src="https://img.shields.io/badge/GitHub-BrianKN019-khaki?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/nbriankimemia019b"><img src="https://img.shields.io/badge/LinkedIn-N%20Brian%20Kimemia-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:briannkimemia@gmail.com"><img src="https://img.shields.io/badge/Email-BrianKimemia-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://briankn019.github.io/portfolio/"><img src="https://img.shields.io/badge/Website-Brian's%20Portfolio-orange?style=flat-square&logo=web" alt="Website"></a>
 </p>
+
 
 <p <!-- Projects -->
 <h2 align="center">Featured Projects 🌟</h2>
