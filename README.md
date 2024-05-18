@@ -18,7 +18,6 @@
 
 <h1 style="color: #6e5494; font-family: Arial, sans-serif; font-size: 36px; font-weight: bold; text-align: center;">Hi there, I'm Brian Kimemia N! 👋</h1>
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=BrianKN019&color=blue)
 
 
