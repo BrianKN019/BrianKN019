@@ -15,7 +15,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
   />
 </picture>
-<h1> Hi there, I'm Brian Kimemia N! 👋</h1>
+
+<h1 style="color: #6e5494; font-family: Arial, sans-serif; font-size: 36px; font-weight: bold; text-align: center;">Hi there, I'm Brian Kimemia N! 👋</h1>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=BrianKN019&color=blue)
