@@ -1,13 +1,20 @@
 <!-- Header -->
 
 
-<img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
   />
-
-<h1 align="center">Hi there, I'm Brian Kimemia N! 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianKN019&label=Profile%20views&color=0e75b6&style=flat" alt="BrianKN019" /> </p>
+  <source
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
+  />
+</picture>
 
 
 <!--  Introduction  -->
