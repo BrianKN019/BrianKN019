@@ -15,6 +15,11 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
   />
 </picture>
+# Hi there, I'm Brian Kimemia N! 👋
+BrianKN019
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=BrianKN019.BrianKN019)
+
 
 
 <!--  Introduction  -->
