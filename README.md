@@ -3,7 +3,7 @@
 
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-custom-dark.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
