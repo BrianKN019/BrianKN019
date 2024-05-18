@@ -26,6 +26,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+Communication+Undergraduate;AWS+Cloud+Practitioner;Data+Analyst;IT+Support;Continous+Learner&center=true&width=500&height=50"></a>
+</p>  
+
 
 <!-- Learning -->
 <h2 align="center">Currently Learning 🌱</h2>
