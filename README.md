@@ -73,7 +73,7 @@ Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields
 
 <!-- Top Languages  Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&langs_count=6&layout=compact&theme=onedark&hide_border=true)
-<img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=BhaskarAcharjee&theme=tokyonight&show_icons=true&locale=en&rank_icon=github"/>
+<img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=BrianKN019&theme=tokyonight&show_icons=true&locale=en&rank_icon=github"/>
   </picture>
 
 <div> <a href="https://github.com/BrianKN019" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
