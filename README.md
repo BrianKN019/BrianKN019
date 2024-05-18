@@ -218,25 +218,25 @@ Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields
 
 
 <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=BrianKN019&theme=tokyonight&show_icons=true&locale=en&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=BrianKN019&theme=vue&show_icons=true&locale=en&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=BrianKN019&theme=tokyonight&show_icons=true&locale=en&rank_icon=github"/>
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BrianKN019&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BrianKN019&show_icons=true&locale=en&layout=compact&langs_count=10&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianKN019&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight" />
-  </picture>
-</p>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=BrianKN019&theme=tokyonight&show_icons=true&locale=en&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=BrianKN019&theme=vue&show_icons=true&locale=en&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=BrianKN019&theme=tokyonight&show_icons=true&locale=en&rank_icon=github" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BrianKN019&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BrianKN019&show_icons=true&locale=en&layout=compact&langs_count=10&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianKN019&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight" />
+</picture>
+
