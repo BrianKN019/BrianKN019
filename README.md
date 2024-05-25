@@ -60,6 +60,7 @@
 <h2 align="center">Open to Collaboration 💼</h2>
 <p align="center">I'm open to collaborate on projects related to Data Analysis, Knowledge Management, and Cloud Solutions.</p>
 
+
 <!-- Contact -->
 <h2 align="center">Get in Touch! 📫</h2>
 <p align="center">
