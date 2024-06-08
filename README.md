@@ -16,7 +16,7 @@
 </picture>
 
 <div style="text-align: center;">
-  <h1 style="color: #6e5494; font-family: Arial, sans-serif; font-size: 36px; font-weight: bold;">Hi there, I'm Brian Kimemia N! 👋</h1>
+  <h1 style="color: #6e5494; font-family: Arial, sans-serif; font-size: 36px; font-weight: bold;">Hi there, I'm Brian Kimemia N ! 👋</h1>
 </div>
 
 
