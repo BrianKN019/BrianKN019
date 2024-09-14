@@ -67,7 +67,7 @@
   <a href="https://github.com/BrianKN019"><img src="https://img.shields.io/badge/GitHub-BrianKN019-khaki?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/nbriankimemia019b"><img src="https://img.shields.io/badge/LinkedIn-N%20Brian%20Kimemia-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:briannkimemia@gmail.com"><img src="https://img.shields.io/badge/Email-BrianNKimemia-red?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://briankimemia-plphackathon1.vercel.app/skills/"><img src="https://img.shields.io/badge/Website-Brian's%20Portfolio-mint?style=flat-square&logo=web" alt="Website"></a>
+  <a href="https://briankimemia-plphackathon1.vercel.app/"><img src="https://img.shields.io/badge/Website-Brian's%20Portfolio-mint?style=flat-square&logo=web" alt="Website"></a>
 </p>
 
 
