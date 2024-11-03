@@ -94,10 +94,8 @@ Feel free To leave your mark 😊, simply [![📝 Guestbook](https://img.shields
 
 ---
 
-<!-- Top Languages  Card -->
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&langs_count=10&layout=compact&theme=onedark&hide_border=true)
-
-
+<!-- Top 10 Languages Card -->
+![Top 10 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKN019&langs_count=10&layout=compact&theme=onedark&hide_border=true)
 
 <div> <a href="https://github.com/BrianKN019" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
