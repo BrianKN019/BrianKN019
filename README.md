@@ -16,7 +16,9 @@
 </picture>
 
 <div style="text-align: center;">
-  <h1 style="color: #6e5494; font-family: Arial, sans-serif; font-size: 36px; font-weight: bold;">Hi there, I'm [Brian Kimemia N !](https://briankimemia.vercel.app/) 👋 </h1>
+<h1 style="color: #6e5494; font-family: Arial, sans-serif; font-size: 36px; font-weight: bold;">
+  Hi there, I'm <a href="https://briankimemia.vercel.app/" style="text-decoration: none; color: #6e5494;">Brian Kimemia N!</a> 👋
+</h1>
 </div>
 
 
